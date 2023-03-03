@@ -1,4 +1,5 @@
 soong_namespace {
+    imports: ["vendor/nxp/secure_element"],
 }
 
 package {
