@@ -5,8 +5,7 @@
 #
 
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/nxp/nfc \
-    vendor/nxp/secure_element
+    vendor/nxp/nfc
 
 NXP_NFC_HARDWARE := PN81T
 NXP_VENDOR_PATH := vendor/nxp
